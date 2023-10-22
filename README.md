@@ -1,5 +1,6 @@
 # CS300
 CS-300 DSA: Analysis and Design
+
 What was the problem you were solving in the projects for this course?
  - One of the biggest problems I ran into was being able to parse files, I still have not mastered this yet and will need more practice.
 How did you approach the problem? Consider why data structures are important to understand.
